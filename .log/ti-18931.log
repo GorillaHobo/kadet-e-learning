@@ -1,0 +1,27 @@
+[06:50:19.273] Global cache location '/home/tony/.cache/typescript/4.2', safe file path '/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/typingSafeList.json', types map path /home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/typesMap.json
+[06:50:19.277] Processing cache location '/home/tony/.cache/typescript/4.2'
+[06:50:19.278] Trying to find '/home/tony/.cache/typescript/4.2/package.json'...
+[06:50:19.286] Loaded content of '/home/tony/.cache/typescript/4.2/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.531"},"devDependencies":{"@types/node":"^14.14.31","@types/object-assign":"^4.0.30","@types/react-dom":"^17.0.1","@types/scheduler":"^0.16.1"}}
+[06:50:19.286] Loaded content of '/home/tony/.cache/typescript/4.2/package-lock.json'
+[06:50:19.326] Adding entry into typings cache: 'node' => '/home/tony/.cache/typescript/4.2/node_modules/@types/node/index.d.ts'
+[06:50:19.329] Adding entry into typings cache: 'object-assign' => '/home/tony/.cache/typescript/4.2/node_modules/@types/object-assign/index.d.ts'
+[06:50:19.334] Adding entry into typings cache: 'react-dom' => '/home/tony/.cache/typescript/4.2/node_modules/@types/react-dom/index.d.ts'
+[06:50:19.338] Adding entry into typings cache: 'scheduler' => '/home/tony/.cache/typescript/4.2/node_modules/@types/scheduler/index.d.ts'
+[06:50:19.338] Finished processing cache location '/home/tony/.cache/typescript/4.2'
+[06:50:19.339] Process id: 18938
+[06:50:19.339] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[06:50:19.339] validateDefaultNpmLocation: false
+[06:50:19.339] Npm config file: /home/tony/.cache/typescript/4.2/package.json
+[06:50:19.340] Updating types-registry npm package...
+[06:50:19.340] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[06:50:21.557]     Succeeded. stdout:
+    
+    up to date, audited 9 packages in 2s
+
+found 0 vulnerabilities
+
+[06:50:21.558] Updated types-registry npm package
+[06:50:28.240] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es5.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2016.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.dom.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.scripthost.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/tony/Documents/react/kadet-e-learning/craco.config.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/tony/Documents/react/kadet-e-learning","kind":"discover"}
+[06:50:28.283] Loaded safelist from types map file '/home/tony/Documents/react/kadet-e-learning/node_modules/typescript/lib/typesMap.json'
+[06:50:28.284] Explicitly included types: []
+[06:50:28.288] Typing names in '/home/tony/Documents/react/kadet-e-learning/package.json' dependencies: ["@testing-library/jest-dom","@testing-library/react","@testing-library/user-event","@types/jest","@types/node","@types/react","@types/react-dom","react","react-dom","react-scripts","typescript","web-vitals","@tailwindcss/postcss7-compat","autoprefixer","postcss","tailwindcss"]
