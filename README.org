@@ -5,8 +5,7 @@
 3. Pengguna dapat memonitor progres pembelajarannya menggunakan halaman profil masing-masing pengguna.
 4. Pengguna juga dapat mendapatkan informasi dan berita terbaru yang berhubungan dengan sekolah kadet
 
-
 * Wireframe
-Desain wireframe untuk website ini dapat dilihat di [[https://www.figma.com/file/nX1xj8UuFDA0unnzW7jgJ9/Kadet-E-learning?node-id=0%3A1][tautan berikut]].
+Desain wireframe untuk website ini dapat dilihat di [[https://www.figma.com/file/nX1xj8UuFDA0unnzW7jgJ9/Kadet-E-learning?node-id=0%3A1][tautan berikut]] atau dapat di unduh di [[https://drive.google.com/file/d/11jitzTo0BRAdnWXVh9gWq6KWyW_lRxYt/view?usp=sharing][tautan berikut]].
 * Purwarupa Aplikasi
 Purwarupa widget yang dapat digunakan di website ini dapat dilihat di [[https://gorillahobo.github.io/kadet-e-learning/][tautan berikut]].
