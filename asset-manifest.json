@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kadet-e-learning/static/css/main.534b0eef.chunk.css",
-    "main.js": "/kadet-e-learning/static/js/main.57e5ffdb.chunk.js",
-    "main.js.map": "/kadet-e-learning/static/js/main.57e5ffdb.chunk.js.map",
+    "main.js": "/kadet-e-learning/static/js/main.f5d0b40f.chunk.js",
+    "main.js.map": "/kadet-e-learning/static/js/main.f5d0b40f.chunk.js.map",
     "runtime-main.js": "/kadet-e-learning/static/js/runtime-main.966f4311.js",
     "runtime-main.js.map": "/kadet-e-learning/static/js/runtime-main.966f4311.js.map",
     "static/js/2.4d5c49f8.chunk.js": "/kadet-e-learning/static/js/2.4d5c49f8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.966f4311.js",
     "static/js/2.4d5c49f8.chunk.js",
     "static/css/main.534b0eef.chunk.css",
-    "static/js/main.57e5ffdb.chunk.js"
+    "static/js/main.f5d0b40f.chunk.js"
   ]
 }
