@@ -1,0 +1,12 @@
+#+TITLE: Kadet
+* Yang dibutuhkan oleh website e-learning untuk sekolah kadet
+1. Sebuah website yang penggunanya dapat login, dan mendapatkan akses ke banyak pelajaran berbagai bidang.
+2. Pelajaran-pelajaran tersebut berbentuk video dan arikel. Bila diperlukan dapat disertai dengan materi pendukung lainnya, seperti file pdf dan gambar-gambar yang dapat diunduh oleh pengguna.
+3. Pengguna dapat memonitor progres pembelajarannya menggunakan halaman profil masing-masing pengguna.
+4. Pengguna juga dapat mendapatkan informasi dan berita terbaru yang berhubungan dengan sekolah kadet
+
+
+* Wireframe
+Desain wireframe untuk website ini dapat dilihat di [[https://www.figma.com/file/nX1xj8UuFDA0unnzW7jgJ9/Kadet-E-learning?node-id=0%3A1][tautan berikut]].
+* Purwarupa Aplikasi
+Purwarupa widget yang dapat digunakan di website ini dapat dilihat di [[https://gorillahobo.github.io/kadet-e-learning/][tautan berikut]].
